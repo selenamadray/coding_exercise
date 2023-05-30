@@ -81,7 +81,7 @@ class MyHomePage extends StatelessWidget {
                             fontWeight: FontWeight.bold,
             ),
           ),
-          SizedBox(height: 13.0), // Add some spacing between the lines
+          SizedBox(height: 30.0), // Add some spacing between the lines
                         Text(
                           'Recipe',
                           style: TextStyle(
@@ -99,7 +99,7 @@ class MyHomePage extends StatelessWidget {
                             fontWeight: FontWeight.bold,
             ),
           ),
-           SizedBox(height: 25.0),
+           SizedBox(height: 35.0),
                   Row(
                 children: [
                   Icon(
